@@ -13,6 +13,9 @@
     "url": "git+https://github.com/KevDev90/moviedex-api.git"
   },
   "keywords": [],
+  "engines": {
+  "node": "14.4.0"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
